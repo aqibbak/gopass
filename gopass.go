@@ -1,5 +1,4 @@
 package gopass
-
 import (
 	"crypto/md5"
 	"crypto/rand"
